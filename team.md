@@ -5,7 +5,7 @@ title: Kontakt & Das sind wir
 
 # Kontakt & Das sind wir
 
-Erreichen könnt ihr uns ganz einfach unter [kasaicon@yahoo.com](mailto:kasaicon@yahoo.com) oder auf Instagram ([kasaicon.real](instagram.com/kasaicon.real/)), Facebook (kasaicon.real) und Twitter (kasaiconRGB). <br>
+Erreichen könnt ihr uns ganz einfach unter [kasaicon@yahoo.com](mailto:kasaicon@yahoo.com) oder auf Instagram ([kasaicon.real](https://instagram.com/kasaicon.real/)), Facebook (kasaicon.real) und Twitter (kasaiconRGB). <br>
 Händler, Künstler, Showacts, Panals und Workshops sollten bitte über die Formulare ausgefüllt werden. 
 
 Wir antworten auf jede Anfrage so schnell wie es uns möglich ist. 
