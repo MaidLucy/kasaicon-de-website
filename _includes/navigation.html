@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">KasaiCon</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == "/" %} active" aria-current="page{% endif %}" href="/">Startseite</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == "/location.html" %} active" aria-current="page{% endif %}" href="/location.html">Location</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == "/tickets.html" %} active" aria-current="page{% endif %}" href="/tickets.html">Tickets</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link{% if page.url == "/team.html" %} active" aria-current="page{% endif %}" href="/team.html">Team</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
