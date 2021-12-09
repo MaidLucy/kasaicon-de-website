@@ -1,1 +1,20 @@
-@import "./bootstrap/scss/bootstrap";
+$primary: #E53500;
+.border-primary{
+    border-style: solid;
+    border-width: 2px;
+    border-color: $primary;
+}
+
+@import "../_bootstrap/scss/bootstrap";
+
+$primary-700: tint-color($primary, 70%);
+
+body{
+    background-color: $primary-700;
+    .container {
+        padding: 18px;
+    }
+}
+.container{
+    background-color: white;
+}
