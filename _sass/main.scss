@@ -1,20 +1,42 @@
-$primary: #E53500;
-.border-primary{
+$secondary: #B62203;
+$primary: #B62203;
+$background: #FF7500;
+$heading: #B62203;
+$background-alt: #801100;
+
+.border-infocard{
     border-style: solid;
     border-width: 2px;
-    border-color: $primary;
+    border-color: $secondary;
 }
 
 @import "../_bootstrap/scss/bootstrap";
 
-$primary-700: tint-color($primary, 70%);
+$background-500: tint-color($background, 50%);
+$background-800: tint-color($background, 80%);
+$background-900: tint-color($background, 90%);
+
+h1, h2, h3, h4, h5, h6 {
+    color: $heading;
+}
 
 body{
-    background-color: $primary-700;
+    background-color: $background;
     .container {
+        background-color: $background-800;
         padding: 18px;
     }
 }
+
+footer{
+    background-color: $background-alt;
+    color: #ffffff;
+    .container{
+        background-color: $background-alt;
+        color: #ffffff;
+    }
+}
+
 .container{
     background-color: white;
 }
