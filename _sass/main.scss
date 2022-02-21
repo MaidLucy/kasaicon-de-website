@@ -20,6 +20,10 @@ h1, h2, h3, h4, h5, h6 {
     color: $heading;
 }
 
+.banner-image{
+    padding: 0px;
+}
+
 body{
     background-color: $background;
     .container {
@@ -27,6 +31,7 @@ body{
         padding: 18px;
     }
 }
+
 
 footer{
     background-color: $background-alt;
