@@ -10,7 +10,7 @@ Sophia Brandl<br>
 Pfalzgraf-Johann-Str. 17<br>
 92431 Neunburg v. Wald<br>
 
-### Buchführung
+### Buchführung:
 Nadja Brandl<br>
 Maxim-Gorki-Str 21<br>
 39108 Magdeburg<br>

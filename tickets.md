@@ -16,7 +16,7 @@ Um euch aber die Möglichkeit auch spontan zu geben, werden einige Tickets an de
 
 <div class="row row-cols-auto"><div class="col"><table class="table table-bordered"><tbody>
 <tr><td> Tageskarte¹           </td> <td> 15 € </td></tr>
-<tr><td> Abendticket² </td> <td> 3,00 € </td></tr>
+<tr><td> Abendticket² </td> <td> 3 € </td></tr>
 <tr><td> Ballticket³         </td> <td> 15 € </td></tr>
 </tbody></table></div></div>
 
