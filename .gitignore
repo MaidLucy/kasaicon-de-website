@@ -2,3 +2,4 @@ _site/
 Gemfile.lock
 .jekyll-cache/
 assets/js/bs/
+assets/images/
