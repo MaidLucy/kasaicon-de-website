@@ -16,9 +16,9 @@ Es ist nicht gängig, dass sich die Organisatoren einer Convention vorstellen.
 Aber wir wollen alle gemeinsam eine persönliche Veranstaltung erleben, da gehört es auch dazu, dass ihr unsere Gesichter und unser Namen kennt:
 
 {% for member in site.team_members %}
-<div class="row">
+<div class="row border-infocard">
 <div class="col-xl-6">
-<div class="row"><div class="col-md-4"> <b> Name:                          </b></div><div class="col-md-8"> <p>{{ member.name }}             </p></div> </div>
+<div class="row"><div class="col-md-4"> <b> Name:                          </b></div><div class="col-md-8"> <h5>{{ member.name }}      </h5></div> </div>
 <div class="row"><div class="col-md-4"> <b> Baujahr:                       </b></div><div class="col-md-8"> <p>{{ member.year }}             </p></div> </div>
 <div class="row"><div class="col-md-4"> <b> Das organisiere ich für euch:  </b></div><div class="col-md-8"> <p>{{ member.orga_role }}        </p></div> </div>
 <div class="row"><div class="col-md-4"> <b> Ich cosplaye seit:             </b></div><div class="col-md-8"> <p>{{ member.cosplaying_since }} </p></div> </div>
