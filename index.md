@@ -4,7 +4,7 @@ title: Startseite
 banner_image: https://f.lucy.moe/kasai-con-banner-image.jpg
 ---
 
-<img class="img-fluid" src="https://f.lucy.moe/kasai-con-banner-image.jpg" alt="banner image">
+<img class="img-fluid" src="https://i.kasaicon.de/kasai-con-banner-image.jpg" alt="banner image">
 
 # KasaiCon Regensburg
 
