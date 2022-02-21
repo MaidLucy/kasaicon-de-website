@@ -7,7 +7,7 @@ fandoms: Kaito Kid, Detektiv Conan
 occupation: Ergotherapeutin
 online_accounts: Fanfiktion.de (helpingangel1412), Instagram (hakdols), Twitter (hakdols)
 shortcommings: Mich in Texten kurz fassen. Sprechen, wenn noch drei andere Menschen Teil der Unterhaltung sind. Fokus auf ein Thema. Zeit finden.
-image: 
+image: https://i.kasaicon.de/photo_2022-02-21_17-15-49.jpg
 ---
 Ich bin im Dauerstress. Immer. Wirklich. Immer.<br>
 Arbeit, Renovieren, Hobbys (Zeitweise 20 Stück). Anders fühle ich mich auch gar nicht wohl. <br>

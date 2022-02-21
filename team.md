@@ -28,8 +28,8 @@ Aber wir wollen alle gemeinsam eine persönliche Veranstaltung erleben, da gehö
 <div class="row"><div class="col-md-4"> <b> Das muss man über mich wissen: </b></div><div class="col-md-8">    {{ member.content }}          </div> </div>
 <div class="row"><div class="col-md-4"> <b> Meine Schwächen:               </b></div><div class="col-md-8"> <p>{{ member.shortcommings }}    </p></div> </div>
 </div>
-<div class="col-xl-6 bg-dark">
-<img src="{{ member.image }}" alt="Foto von {{ member.name }}" class="text-white">
+<div class="col-xl-6">
+<img src="{{ member.image }}" alt="Foto von {{ member.name }}" class="img-fluid">
 </div>
 </div>
 <br>
