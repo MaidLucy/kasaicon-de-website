@@ -5,7 +5,7 @@ orga_role: Fotografie & Social Media
 cosplaying_since: 2015
 fandoms: Naruto, Haikyu!!
 occupation: Verkäuferin
-online_accounts: Instagram (sasuko_uchiha_17), TikTok (cos_girl_1220), shapchat (sanjiuchiha), Twitter (na_ru_toxd) 
+online_accounts: Instagram (chibi_chan_2001), TikTok (chibichan_2001), Snapchat (sanjiuchiha), Twitter (na_ru_toxd) 
 shortcommings: Erdbeeren, Mathe, meine Frau 
 image: 
 ---

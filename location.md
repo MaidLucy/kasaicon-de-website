@@ -17,8 +17,7 @@ Damit der Bauch nicht dauerhaft knurren muss, haben wir für euch einen guten Ca
 Von Klassikern wie Pommes oder Pizza bis hin zu den asiatischen Leckerbissen Onigiri, Sushi oder Ramen bietet unsere Küche auch Getränke an. 
 Die Liste der Angebote hält sich in Grenzen: 
 
-- Beispiel Listen-Item
-- Beispiel Listen-Item 2
+- *Ist in Arbeit*
 
 ## Anfahrt 
 
