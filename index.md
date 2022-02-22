@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Startseite
+description: Eine bunte Cosplay-Convention in Bayern mit einem vielfältigen Programm und einer tollen Kulisse. 
 banner_image: https://i.kasaicon.de/kasai-con-banner-image.jpg
 ---
 
