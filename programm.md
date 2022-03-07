@@ -31,7 +31,7 @@ Wir haben eurer Interesse geweckt? <br>
 Das ist gut. <br>
 Dann wird euch der genauere Ablauf bestimmt interessieren: 
 
-#### 1. Laufsteg (30% der Bewertung) 
+**1. Laufsteg** (30% der Bewertung)
 
 Zunächst präsentiert ihr eure Cosplays wie ein Model auf unseren Laufsteg, dabei ist es wichtig, sich **wie** der **Charakter** zu **verhalten**. 
 Zuerst gehen alle gemeinsam und dann nochmal alle einzeln. 
@@ -41,13 +41,13 @@ __ACHTUNG:__ Bei jedem Laufsteg gibt es Fotografen, auch bei uns.
 
 (z. B. Ein Phönix-Cosplay müsste total majestätisch und mit Flügelschlag den Laufsteg durchgehen) 
 
-#### 2. Fragerunde (30% der Bewertung) 
+**2. Fragerunde** (30% der Bewertung) 
 
 Anschließend werden dem **Charakter** (*nicht* dem Teilnehmer) **Fragen gestellt**. 
 Hier müsst ihr **beweisen**, wie gut ihr euren **Charakter kennt**. 
 Sprich: die gestellten Fragen müssen vom Charakter (bei unserem Beispiel der Phönix) beantwortet werden. Je genauer, lustiger, kreativer und spannender die Antwort, desto besser das Ergebnis.  
 
-#### 3. Performance (30% der Bewertung + 10% der Bewertung des Cosplays) 
+**3. Performance** (30% der Bewertung + 10% der Bewertung des Cosplays) 
 
 Zu guter letzt darf jeder Teilnehmer sein Talent präsentieren. 
 Wie bei **herkömmlichen Cosplaywettbewerbe** habt ihr hierfür 2-3 Minuten Zeit, mit eurem Sketch die Jury zu begeistern. 
