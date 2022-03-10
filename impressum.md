@@ -20,3 +20,8 @@ E-Mail geschäftlich: [kasaicon@yahoo.com](mailto:kasaicon@yahoo.com)<br>
 E-Mail privat: [sophiejocker@t-online.de](mailto:sophiejocker@t-online.de)<br>
 Mobiltelefon (immer erreichbar): 0172 / 8275691<br>
 Privat Telefon (ab 18 Uhr): 09672 / 8459895<br>
+
+### Allgemeine Geschäftigsbedingungen
+
+- [AGB für Händler](https://i.kasaicon.de/agb-haendler.pdf)
+- [AGB für Tickets](https://i.kasaicon.de/agb-ticket.pdf)

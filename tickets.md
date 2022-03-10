@@ -12,6 +12,7 @@ Auch der Ball ist auf 150 Teilnehmer begrenzt.
 Der Vorverkauft startet am 01.03.2022. 
 Unter [kasaicon@yahoo.com](mailto:kasaicon@yahoo.com) könnt ihr euch Tickets vorbestellen. 
 Sagt uns damit einfach mit Angabe eurer **Name**, **Alter** und **Adresse**, was ihr bestellen wollt.
+Selbstverständlich stimmt ihr mit dem Kauf eines Tickets den [AGBs für die Tickets](https://i.kasaicon.de/agb-ticket.pdf) zu.
 Um euch aber die Möglichkeit auch spontan zu geben, werden einige Tickets an der Tageskasse ausgestellt. 
 
 ## Preise: 
