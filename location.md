@@ -31,7 +31,11 @@ Die Adresse für Navigationssystem für das Parkhaus neben dem Marinaforum laute
 **Von-Donle-Straße 5**<br>
 **93055 Regensburg**
 
-*Vielleicht wäre eine Google Karte nicht schlecht. Versteckt hinter einem Datenschutz-Hinweis.*
+<a href="https://www.marinaforum.de/fileadmin/user_upload/downloads/MF_Anfahrt-und-Lageplan_A4_210388_Anlieferung-marinaforum-03.pdf">
+<img src="https://i.kasaicon.de/anfahrt-besucher.jpeg" class="img-fluid" alt="Karte Anfahrt">
+</a>
+
+Hier ist ein übersichtlicher Plan des Marina Forums: [link](https://www.marinaforum.de/fileadmin/user_upload/downloads/MF_Anfahrt-und-Lageplan_A4_210388_Anlieferung-marinaforum-03.pdf)
 
 Das Parkhaus ist nicht ganz kostenlos: 
 
