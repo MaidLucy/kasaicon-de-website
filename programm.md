@@ -51,6 +51,7 @@ Sprich: die gestellten Fragen müssen vom Charakter (bei unserem Beispiel der Ph
 
 Zu guter letzt darf jeder Teilnehmer sein Talent präsentieren. 
 Wie bei **herkömmlichen Cosplaywettbewerbe** habt ihr hierfür 2-3 Minuten Zeit, mit eurem Sketch die Jury zu begeistern. 
+Ihr könnt auch euren Charakter genauer vorstellen oder weitere Posen präsentieren.
 Wert hierfür ist die Performance und wie genau der Charakter dargestellt wird, das Cosplay an sich ist nicht das Wichtigste bei unserem Wettbewerb.
 (Beispiel Phönix: Er könnte über sein Leben als Phönix erzählen und dabei majestätisch "durch die Gegend" fliegen)
 
@@ -62,7 +63,8 @@ Es wird vor Ort nochmal genau alles erklärt und im [diesem Video KDK GnC](https
 
 ### Anmeldung
 
-- spätestens eine Woche vor der KasaiCon 
+- Anmeldebeginn: 01.05.2022 
+- Anmeldeschluss: 21.05.2022 
 - Nachzügler können akzeptiert werden, aber dann ein Steckbrief des Charakter mitbringen
 
 **Anmeldungsbedingungen:**
@@ -164,8 +166,6 @@ Natürlich gibt es als Königspaar auch hier was zu gewinnen:
 Also keine Scheu. Und ein kleiner Trost für alle, die kein Ticket mehr bekommen haben. 
 Eine Disco haben wir auch. 
 
-**ACHTUNG: DIESER PROGRAMMPUNKT KANN WEGEN DEN CORONAMAẞNAHMEN AUSFALLEN. SOLLTE DAS DER FALL SEIN, WERDET IHR RECHTZEITIG INFORMIERT. TICKETS WERDEN BEI DEM FALL VOR ORT ZURÜCK BEZAHLT.**
-
 ## Disco
 
 „Leb deinen Traum, denn er wird wahr!“ <br>
@@ -182,4 +182,50 @@ Natürlich wird unser DJ alles für Musikwünsche tun.
 
 Denkt aber an die Haus-/Ordnungs- und Conregeln. Sie gelten nach wie vor! 
 
-**ACHTUNG: DIESER PROGRAMMPUNKT KANN WEGEN DEN CORONAMAẞNAHMEN AUSFALLEN. SOLLTE DAS DER FALL SEIN, WERDET IHR RECHTZEITIG INFORMIERT. EIN PLAN B EXISTIERT DAFÜR SCHON.**
+## Zum Ersten, zum Zweiten, Euer
+
+Ein Helferlein für ein paar Stunden, ein wenig Merch oder doch nur um den Geldfrosch für einen guten Zweck auszuleeren - Die Versteigerung der KasaiCon bietet für jedem Interessenten etwas.
+
+#### Doch für was ist eine Versteigerung überhaupt gut?
+
+Anders als bei herkömmlichen Versteigerungen in Deutschland wird bei uns der Erlös nicht in unseren eigenen Kasse gesteckt, sondern gesammelt und zu 100% für einen guten Zweck gespendet.
+
+#### Wem kommt das ersteigerte Geld zu Gute?
+
+Wie schon bei anderen Convention wird auch die KasaiCon den gesamten Erlös einem bedürftigen Tierheim spenden. 
+So können die im Tierheim lebenden Tieren mit genügend Nahrung, Medikamente und auch einem sauberen Unterkunft versorgt werden. 
+In unseren Fall kommt es dem Tierschutzverein Regensburg e.V. für das Tierheim in Regensburg zu Gute. 
+
+#### Wie ersteigere ich die jeweiligen Angebote? 
+
+Der meist Bietende bekommt das angeworbende Angebot (sei es ein Helferlein/Cosplayer oder Merch). 
+Dabei steigen wir bei jedem Teil mit jeweils 3 Euro ein und dann wird losgelegt. 
+Ihr nennt einfach einen größeren Betrag und sollte kein anderer mehr höher bieten, gehört es zum Ersten, zum Zweiten, euch.
+
+Die Höhe des Betrages ist dabei egal, macht es aber nicht wie Ralph aus "Chaos im Netz" und bietet mit einem Betrag, den ihr überhaupt nicht habt. 
+
+#### Was kann ich ersteigern? 
+
+- 10 Cosplayer oder Cosplaygruppen 
+- 5 Merchpakete (Inhalt ansehbar) von Sponsoren 
+
+Für jedes Angebot gibt es 2 Minuten Zeit, um dafür zu bieten. 
+Der Moderator stoppt dabei die Zeit, dann ertönt ein Piepen. 
+Derjenige, der vor dem Piepen (sollte weiterhin gebietet werden), als letztes bietet, bekommt das Artikel. 
+
+Beim Ersteigern eines Artikels bekommt ihr eine Nummer, der Preis wird in die Artikelliste mit euren Namen aufgeschrieben. 
+
+Gezahlt wird dann nach der Preisverleihung im Conbüro.
+
+#### Und wie kann ich mich ersteigern lassen? 
+
+Für alle Cosplayer, die sich für den guten Zweck versteigern lassen wollen, können sich am Tag der Versteigerung direkt am Conbüro anmelden. 
+10 Cosplayer, Cosplayerpaare oder kleine Cosplaygruppen können sich dabei anmelden. 
+5 weitere Helferlein dürfen sich als Nachrücker eintragen lassen.
+
+#### Was muss ich machen, wenn ich versteigert wurde? 
+
+Natürlich darf nicht wegen Lust oder Sklaverei ersteigert werden. 
+Ansonsten dürft ihr anbieten, was ihr wollt. 
+Ein paar Beispiele wären: Essen gehen, Bilder shooten, Taschen tragen oder sowas ähnliches. 
+Solltet ihr euch dennoch nach ein paar Minuten Unwohl fühlt, zu etwas gezwungen werden oder es Streitereien gibt, versucht es mit euren Ersteiger zu klären, ruft euch einen Helfer zur Rate oder kommt direkt zum Conbüro.

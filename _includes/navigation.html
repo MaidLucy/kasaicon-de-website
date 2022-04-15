@@ -18,8 +18,18 @@
         <li class="nav-item">
           <a class="nav-link{% if page.url == "/tickets.html" %} active" aria-current="page{% endif %}" href="/tickets.html">Tickets</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link{% if page.url == "/programm.html" %} active" aria-current="page{% endif %}" href="/programm.html">Programm</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {% if page.url == "/programm.html" %} active" aria-current="page{% endif %}" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Programm
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="/programm.html#kasaicon-next-cosplayer">KasaiCon next Cosplayer</a></li>
+            <li><a class="dropdown-item" href="/programm.html#freestyle">Freestyle</a></li>
+            <li><a class="dropdown-item" href="/programm.html#nudelschlürfwettbewerb">Nudelschlürfwettbewerb</a></li>
+            <li><a class="dropdown-item" href="/programm.html#ball">Ball</a></li>
+            <li><a class="dropdown-item" href="/programm.html#disco">Disco</a></li>
+            <li><a class="dropdown-item" href="/programm.html#zum-ersten-zum-zweiten-euer">Zum Ersten, zum Zweiten, Euer</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link{% if page.url == "/team.html" %} active" aria-current="page{% endif %}" href="/team.html">Team</a>
