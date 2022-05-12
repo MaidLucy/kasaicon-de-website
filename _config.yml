@@ -1,3 +1,6 @@
 url: https://kasaicon.de
 collections:
   team_members:
+
+include: 
+  - _bootstrap/dist/js/bootstrap.bundle.js
