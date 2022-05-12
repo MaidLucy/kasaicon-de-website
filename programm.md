@@ -5,6 +5,97 @@ title: Programm
 
 # Programm
 
+Hier ist ein Übersichtlicher Zeitplan zum Programm:
+
+<table class="table table-sm table-bordered border-primary table-hover">
+<thead>
+<tr>
+    <th> Zeit </th>
+    <th> Bühne </th>
+    <th> Workshop 1 </th>
+    <th> Workshop 2 </th>
+    <th> Gamesroom </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <th> 10:00 </th>
+    <th> Einlass </th>
+    <th rowspan="20"> <i> comming soon </i> </th>
+    <th rowspan="20"> <i> comming soon </i> </th>
+    <th rowspan="20"> <i> comming soon </i> </th>
+</tr>
+<tr>
+    <th> 10:30 </th>
+    <th> Eröffnung </th>
+</tr>
+<tr>
+    <th> 11:00 </th>
+    <th> Begrüßung </th>
+</tr>
+<tr>
+    <th> 11:30 </th>
+    <th rowspan="2"> Showakt </th>
+</tr>
+<tr>
+    <th> 12:00 </th>
+</tr>
+<tr>
+    <th> 12:30 </th>
+    <th> <a href="/programm.html#nudelschlürfwettbewerb"> Nudelschlürfwettbewerb </a> </th>
+</tr>
+<tr>
+    <th> 13:00 </th>
+    <th rowspan="2"> <a href="/programm.html#freestyle"> Freestyle </a> </th>
+</tr>
+<tr>
+    <th> 13:30 </th>
+</tr>
+<tr>
+    <th> 14:00 </th>
+    <th rowspan="4"> <a href="/programm.html#kasaicon-next-cosplayer"> KasaiCon next Cosplayer </a> </th>
+</tr>
+<tr>
+    <th> 14:30 </th>
+</tr>
+<tr>
+    <th> 15:00 </th>
+</tr>
+<tr>
+    <th> 15:30 </th>
+</tr>
+<tr>
+    <th> 16:00 </th>
+    <th rowspan="2"> <a href="/programm.html#zum-ersten-zum-zweiten-euer"> Zum Ersten, zum Zweiten, Deins </a> </th>
+</tr>
+<tr>
+    <th> 16:30 </th>
+</tr>
+<tr>
+    <th> 17:00 </th>
+    <th> Preisverleihung & Verabschiedung </th>
+</tr>
+<tr>
+    <th> 17:30 </th>
+</tr>
+<tr>
+    <th> 18:00 </th>
+</tr>
+<tr>
+    <th> 18:30 </th>
+    <th>  Einlass Ball </th>
+</tr>
+<tr>
+    <th> 19:00 </th>
+    <th rowspan="2"> <a href="/programm.html#ball"> Ball </a> </th>
+</tr>
+<tr>
+    <th> 22:00 </th>
+</tr>
+</tbody>
+
+</table>
+
 ## KasaiCon next Cosplayer
 
 Ihr wolltet schon immer euer Cosplay präsentieren? <br>
