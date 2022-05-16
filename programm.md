@@ -7,7 +7,7 @@ title: Programm
 
 Hier ist ein Übersichtlicher Zeitplan zum Programm:
 
-<table class="table table-sm table-bordered border-primary table-hover">
+<table id="zeitplan" class="table table-sm table-bordered border-primary table-hover">
 <thead>
 <tr>
     <th> Zeit </th>
