@@ -14,10 +14,19 @@ Wer mehr wissen will, kann das Marinaforum gerne auf [dieser Webseite](https://m
 ## Catering 
 
 Damit der Bauch nicht dauerhaft knurren muss, haben wir für euch einen guten Catering ausgesucht. 
-Von Klassikern wie Pommes oder Pizza bis hin zu den asiatischen Leckerbissen Onigiri, Sushi oder Ramen bietet unsere Küche auch Getränke an. 
-Die Liste der Angebote hält sich in Grenzen: 
+Die Liste der Angebote hält sich in Grenzen:
 
-- *Ist in Arbeit*
+- Miso Suppe 5,- € 
+- Thaicurry vegetarisch 8,- € 
+- Thaicurry mit Huhn oder Rind 9,- € 
+- Schrupfnudeln mit Kraut 6,- € 
+- Currywurst mit Brötchen 6,- € 
+
+Getränke gibt es auch zum kaufen. 
+Natürlich ist es auch möglich, selber Brotzeit mitzubringen. 
+(Brotzeit im Sinne von selbstgemachtes Essen wie z.B. belegte Brote)
+
+**ABER MITBRINGEN ODER BESTELLEN VOM EXTERNEN (also vom Lieferanten, Pizzaria oder ähnliches) IST STRENGSTENS UNTERSAGT!**
 
 ## Anfahrt 
 
