@@ -14,20 +14,18 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
     <th> Bühne </th>
     <th> Workshop 1 </th>
     <th> Workshop 2 </th>
-    <th> Gamesroom </th>
 </tr>
 </thead>
 <tbody>
 <tr>
     <th> 10:00 </th>
-    <th> Einlass </th>
-    <th rowspan="20"> <i> comming soon </i> </th>
-    <th rowspan="20"> <i> comming soon </i> </th>
-    <th rowspan="20"> <i> comming soon </i> </th>
+    <th colspan="3"> Einlass </th>
 </tr>
 <tr>
     <th> 10:30 </th>
     <th> Eröffnung </th>
+    <th rowspan="2"> CosPLAY – Schauspiel im Cosplay <br> <i> alt.: Farbenfroh – Perrücken färben leicht gemacht </i> </th>
+    <th rowspan="2"> Cosplay – Seid ihr alle verrückt? </th>
 </tr>
 <tr>
     <th> 11:00 </th>
@@ -36,6 +34,8 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 <tr>
     <th> 11:30 </th>
     <th rowspan="2"> Showakt </th>
+    <th rowspan="2"> Cosplay Posing 101 </th>
+    <th rowspan="3"> Cosplay – So geht's los! </th>
 </tr>
 <tr>
     <th> 12:00 </th>
@@ -43,23 +43,30 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 <tr>
     <th> 12:30 </th>
     <th> <a href="/programm.html#nudelschlürfwettbewerb"> Nudelschlürfwettbewerb </a> </th>
+    <th rowspan="2"> Showakt: Yamato </th>
 </tr>
 <tr>
     <th> 13:00 </th>
     <th rowspan="2"> <a href="/programm.html#freestyle"> Freestyle </a> </th>
+    <th rowspan="2"> Japan und seine Kultur </th>
 </tr>
 <tr>
     <th> 13:30 </th>
+    <th rowspan="2"> Trittsicher – Leitfaden für Cosplayschuhe aller Art </th>
 </tr>
 <tr>
     <th> 14:00 </th>
     <th rowspan="4"> <a href="/programm.html#kasaicon-next-cosplayer"> KasaiCon next Cosplayer </a> </th>
+    <th> </th>
 </tr>
 <tr>
     <th> 14:30 </th>
+    <th rowspan="4"> </th>
+    <th> Origami Theorie </th>
 </tr>
 <tr>
     <th> 15:00 </th>
+    <th rowspan="2"> Origami Praxis </th>
 </tr>
 <tr>
     <th> 15:30 </th>
@@ -67,27 +74,104 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 <tr>
     <th> 16:00 </th>
     <th rowspan="2"> <a href="/programm.html#zum-ersten-zum-zweiten-euer"> Zum Ersten, zum Zweiten, Deins </a> </th>
+    <th rowspan="2"> Manga, Anime, Comic - der Weg nach Deutschland </th>
 </tr>
 <tr>
     <th> 16:30 </th>
+    <th rowspan="4"> Tanzkurs </th>
 </tr>
 <tr>
     <th> 17:00 </th>
     <th> Preisverleihung & Verabschiedung </th>
+    <th rowspan="2"> Con und Fan Trends </th>
 </tr>
 <tr>
     <th> 17:30 </th>
+    <th rowspan="2"> </th>
 </tr>
 <tr>
     <th> 18:00 </th>
+    <th rowspan="4"> </th>
 </tr>
 <tr>
     <th> 18:30 </th>
-    <th>  Einlass Ball </th>
+    <th> Einlass Ball </th>
+    <th> </th>
 </tr>
 <tr>
     <th> 19:00 </th>
     <th rowspan="2"> <a href="/programm.html#ball"> Ball </a> </th>
+    <th rowspan="2"> Disco </th>
+</tr>
+<tr>
+    <th> 22:00 </th>
+</tr>
+</tbody>
+
+</table>
+
+<table id="gamingroom" class="table table-sm table-bordered border-primary table-hover">
+<thead>
+<tr>
+    <th> Zeit </th>
+    <th colspan="4"> Gamingroom </th>
+</tr>
+<tr>
+    <th> </th>
+    <th> Switch </th>
+    <th> PS4 </th>
+    <th> XBox </th>
+    <th> Gamecube </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <th> 10:00 </th>
+    <th rowspan="2"> Mario Kart 8 Deluxe </th>
+    <th rowspan="2"> Tetris </th>
+    <th rowspan="2"> Worms </th>
+    <th rowspan="2"> Mario Soccer </th>
+</tr>
+<tr>
+    <th> 11:00 </th>
+</tr>
+<tr>
+    <th> 12:00 </th>
+    <th rowspan="2"> Mario Smash </th>
+    <th rowspan="2"> Jump Force </th>
+    <th rowspan="2"> Fifa 22 </th>
+    <th rowspan="2"> Mario Kart DD </th>
+</tr>
+<tr>
+    <th> 13:00 </th>
+</tr>
+<tr>
+    <th> 14:00 </th>
+    <th rowspan="2"> Kirby </th>
+    <th rowspan="2"> It Takes Two </th>
+    <th rowspan="2"> Force Horizon </th>
+    <th rowspan="2"> Sonic </th>
+</tr>
+<tr>
+    <th> 15:00 </th>
+</tr>
+<tr>
+    <th> 16:00 </th>
+    <th rowspan="2"> Little Nightmare </th>
+    <th rowspan="2"> Tekken </th>
+    <th rowspan="2"> Just Dance </th>
+    <th rowspan="2"> Need for Speed </th>
+</tr>
+<tr>
+    <th> 17:00 </th>
+</tr>
+<tr>
+    <th> 18:00 </th>
+    <th colspan="4"> </th>
+</tr>
+<tr>
+    <th> 19:00 </th>
+    <th rowspan="2" colspan="4"> Karaoke </th>
 </tr>
 <tr>
     <th> 22:00 </th>
