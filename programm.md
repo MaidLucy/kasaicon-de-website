@@ -33,8 +33,8 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 </tr>
 <tr>
     <th> 11:30 </th>
-    <th rowspan="2"> Showakt </th>
-    <th rowspan="2"> Cosplay Posing 101 </th>
+    <th rowspan="2"> <a href="/programm.html#showakt-moanna"> Showakt: MoAnna </a> </th>
+    <th rowspan="2"> <a href="/programm.html#cosplay-posing-101"> Cosplay Posing 101 </a> </th>
     <th rowspan="3"> Cosplay – So geht's los! </th>
 </tr>
 <tr>
@@ -42,8 +42,8 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 </tr>
 <tr>
     <th> 12:30 </th>
-    <th> <a href="/programm.html#nudelschlürfwettbewerb"> Nudelschlürfwettbewerb </a> </th>
-    <th rowspan="2"> Showakt: Yamato </th>
+    <th> <a href="/programm.html#nudelschlürfwettbewerb"> Nudelschlürf-Wettbewerb </a> </th>
+    <th rowspan="2"> <a href="/programm.html#showakt-yamato"> Showakt: Yamato </a> </th>
 </tr>
 <tr>
     <th> 13:00 </th>
@@ -52,7 +52,7 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 </tr>
 <tr>
     <th> 13:30 </th>
-    <th rowspan="2"> Trittsicher – Leitfaden für Cosplayschuhe aller Art </th>
+    <th rowspan="2"> <a href="/programm.html#trittsicher--leitfaden-für-cosplayschuhe-aller-art"> Trittsicher – Leitfaden für Cosplayschuhe aller Art </a> </th>
 </tr>
 <tr>
     <th> 14:00 </th>
@@ -179,6 +179,38 @@ Hier ist ein Übersichtlicher Zeitplan zum Programm:
 </tbody>
 
 </table>
+
+## Bühne
+
+### Showakt MoAnna
+
+Anna 23, besser bekannt als MoAnna.
+Vielleicht kennt ihr mich schon von anderen Cons, auf denen ich mit Liedern aus Film, Anime und Spiel aufgetreten bin. 
+Nach viel zu langer Pause werde Ich hoffentlich dem ein oder anderen mit meiner Musik den Tag versüßen. 
+Ich freue mich auf zahlreiches Erscheinen!!!
+
+## Workshop 1
+
+### Trittsicher – Leitfaden für Cosplayschuhe aller Art 
+
+Auf das richtige Schuhwerk kommt es an! 
+Von Ninja-Sandalen bis Overknee Stiefel, hier findet ihr alle nötigen Informationen um nicht mehr über Probleme zu stolpern.
+
+### Cosplay Posing 101
+
+Wie schaffe ich es auf Fotos gut auszusehen? 
+Abgesehen von schicken Kostümen, braucht es für Fotoshoots Posing Geschick um schöne Ergebnisse zu erzielen. 
+Keine Panik. 
+Klingt kompliziert, ist es aber nicht. 
+Ich zeige Anfängern wie auch Fortgeschrittenen nützliche Tipps & Tricks, um euch und euer Kostüm vor der Kameralinse besser zu präsentieren. Seid gespannt ~
+
+### Showakt Yamato
+
+Ich bin Yamato und mache gesungene Comedy, hauptsächlich Filksongs. 
+Kurz zur Erklärung, Filksongs sind Songparodien mit bekannten Liedern und neuen Texten. 
+z.B. „Eine Woche Con“, „Duck Tape“, oder „Toss a Shirt to your Witcher.“ 
+Beim neuen Programm stammen die Songs aus verschiedenen Fandoms, Anime aber auch Realserien. 
+Ein paar Anime-Openings zum Mitsingen sind natürlich auch mit dabei.
 
 ## KasaiCon next Cosplayer
 
